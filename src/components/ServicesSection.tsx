@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Palette, CalendarCheck, Tent, Camera, Music } from 'lucide-react';
+import { Palette, CalendarCheck,  Tent, Camera, Music } from 'lucide-react';
 
 const services = [
   { icon: Palette, title: 'Balloon Decoration', desc: 'Premium balloon arches, garlands, and custom installations tailored to your theme.' },
