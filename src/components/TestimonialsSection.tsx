@@ -10,6 +10,18 @@ const testimonials = [
     rating: 5,
   },
   {
+    name: 'Kanchan Dulhani',
+    event: 'Birthday',
+    text: 'Balloons Unlimited completely transformed our wedding venue! The gold and white balloon arches were absolutely stunning and added that perfect touch of luxury we were looking for. Highly recommended!',
+    rating: 5,
+  },
+  {
+    name: 'Anshul Wadhwani',
+    event: 'Birthday',
+    text: 'Balloons Unlimited completely transformed our wedding venue! The gold and white balloon arches were absolutely stunning and added that perfect touch of luxury we were looking for. Highly recommended!',
+    rating: 2,
+  },
+  {
     name: 'Michael Chen',
     event: 'Corporate Gala',
     text: 'Professional, punctual, and incredibly creative. The team handled our corporate event flawlessly. The black and gold theme they executed was sophisticated and exactly what our brand needed.',

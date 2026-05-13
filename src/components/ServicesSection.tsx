@@ -4,7 +4,6 @@ import { Palette, CalendarCheck, UtensilsCrossed, Tent, Camera, Music } from 'lu
 const services = [
   { icon: Palette, title: 'Balloon Decoration', desc: 'Premium balloon arches, garlands, and custom installations tailored to your theme.' },
   { icon: CalendarCheck, title: 'Complete Event Management', desc: 'End-to-end planning, execution, and coordination for a flawless event.' },
-  { icon: UtensilsCrossed, title: 'Catering & Meals', desc: 'Exquisite culinary experiences with customizable menus for your guests.' },
   { icon: Tent, title: 'Stage Decoration', desc: 'Luxurious stage setups with floral arrangements, lighting, and premium props.' },
   { icon: Camera, title: 'Photography', desc: 'Professional photography and videography to capture your precious moments.' },
   { icon: Music, title: 'Entertainment & DJ', desc: 'Live music, DJs, and entertainment acts to keep your party alive.' },
