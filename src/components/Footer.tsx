@@ -42,7 +42,7 @@ export const Footer = () => {
               <a href="https://www.facebook.com/kdulhani" className="w-10 h-10 rounded-full glass flex items-center justify-center text-primary hover:bg-primary hover:text-black transition-all duration-300">
                 <FacebookIcon size={20} />
               </a>
-              <a href="#" className="w-10 h-10 rounded-full glass flex items-center justify-center text-primary hover:bg-primary hover:text-black transition-all duration-300">
+              <a href="" className="w-10 h-10 rounded-full glass flex items-center justify-center text-primary hover:bg-primary hover:text-black transition-all duration-300">
                 <TwitterIcon size={20} />
               </a>
             </div>
@@ -79,7 +79,7 @@ export const Footer = () => {
             <ul className="space-y-6">
               <li className="flex items-start">
                 <MapPin className="text-primary w-5 h-5 mr-3 mt-1 flex-shrink-0" />
-                <span className="text-accent/60">Careertronics Global services</span>
+                <span className="text-accent/60">Param CG Road, Raipur, C.G</span>
               </li>
               <li className="flex items-center">
                 <Phone className="text-primary w-5 h-5 mr-3 flex-shrink-0" />
